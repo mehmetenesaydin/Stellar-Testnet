@@ -3,7 +3,7 @@
 ## Project Name
 Stellar Payment and Messaging System
 
-## Who We Are
+## Who am I
 - **Name:** Mehmet Enes Aydın
 - **Title:** Software Developer Developer
 - **Role:** Smart Contract and Rust Developer
@@ -36,12 +36,12 @@ Our project aims to streamline digital payments and integrate a messaging featur
    cargo run
 
 Project Structure
-**main.rs** - Entry point of the application with main menu options.
-**stellar.rs** - Contains functions to interact with Stellar Blockchain.
-**transaction.rs** - Handles XLM transfers and message sending.
-**multi_transfer.rs** - Allows sending XLM to multiple recipients.
-**history.rs** - Validates Stellar addresses and manages transaction history.
-**utils.rs** - Helper functions for input and validation.
+- **main.rs** - Entry point of the application with main menu options.
+- **stellar.rs** - Contains functions to interact with Stellar Blockchain.
+- **transaction.rs** - Handles XLM transfers and message sending.
+- **multi_transfer.rs** - Allows sending XLM to multiple recipients.
+- **history.rs** - Validates Stellar addresses and manages transaction history.
+- **utils.rs** - Helper functions for input and validation.
 
 **Usage**
 Once the project is running, you will see a menu with the following options:
