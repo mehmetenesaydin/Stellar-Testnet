@@ -35,7 +35,7 @@ Our project aims to streamline digital payments and integrate a messaging featur
    ```bash
    cargo run
 
-##Project Structure
+## Project Structure
 - **main.rs** - Entry point of the application with main menu options.
 - **stellar.rs** - Contains functions to interact with Stellar Blockchain.
 - **transaction.rs** - Handles XLM transfers and message sending.
@@ -43,7 +43,7 @@ Our project aims to streamline digital payments and integrate a messaging featur
 - **history.rs** - Validates Stellar addresses and manages transaction history.
 - **utils.rs** - Helper functions for input and validation.
 
-##Usage
+## Usage
 Once the project is running, you will see a menu with the following options:
 
 - **Check Balance** - Enter a Stellar public key to view the balance.
@@ -53,5 +53,5 @@ Once the project is running, you will see a menu with the following options:
 - **Contributing**
 Feel free to open an issue or submit a pull request if you want to contribute to this project.
 
-##License
+## License
 This project is licensed under the MIT License.
