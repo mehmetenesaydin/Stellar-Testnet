@@ -8,8 +8,7 @@ Stellar Payment and Messaging System
 - **Title:** Software Developer Developer
 - **Role:** Smart Contract and Rust Developer
 - **Experience:** Stellar Blockchain Development, Smart Contracts, and Decentralized Applications
-- **LinkedIn:** [Your LinkedIn]
-- **GitHub:** [Your GitHub Profile]
+
 
 ## Project Details
 The Stellar Payment and Messaging System allows users to perform various actions such as checking balances, making XLM transfers, viewing transaction history, and performing multi-recipient transfers. The application is built using Rust and utilizes the Stellar Blockchain's testnet for transaction and balance inquiries.
