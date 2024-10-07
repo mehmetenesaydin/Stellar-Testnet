@@ -46,11 +46,11 @@ Project Structure
 **Usage**
 Once the project is running, you will see a menu with the following options:
 
-**Check Balance** - Enter a Stellar public key to view the balance.
-**Make XLM Transfer** - Send XLM to a single recipient with an optional message.
-**View Transaction History** - Display the history of completed transactions.
-**Multi-Recipient Transfer** - Perform a transfer to multiple addresses at once.
-**Contributing**
+- **Check Balance** - Enter a Stellar public key to view the balance.
+- **Make XLM Transfer** - Send XLM to a single recipient with an optional message.
+- **View Transaction History** - Display the history of completed transactions.
+- **Multi-Recipient Transfer** - Perform a transfer to multiple addresses at once.
+- **Contributing**
 Feel free to open an issue or submit a pull request if you want to contribute to this project.
 
 **License**
